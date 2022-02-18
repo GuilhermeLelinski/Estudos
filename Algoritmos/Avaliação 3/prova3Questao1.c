@@ -13,12 +13,10 @@ int main(void) {
   
   printf("Mês Média \n");
 
-  for (lin = 0; lin < L-2; lin++) {
-    for ( col=0; col < C; col++) { 
+  for ( col=0; col < C; col++) { 
         count++;
       printf("%d   %.1f\n", count, ((clima[0][col] + clima[1][col]) / 2));
     }
-  }
 
   return 0;
 }
