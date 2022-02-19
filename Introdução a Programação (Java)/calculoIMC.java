@@ -1,4 +1,4 @@
-package o.projeto.de.tudo.pkg1;
+package calculoIMC;
 
 import java.util.Scanner;
 
