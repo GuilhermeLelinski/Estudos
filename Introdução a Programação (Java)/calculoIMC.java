@@ -23,7 +23,8 @@ public class calculoIMC {
         imc = peso / (altura*altura);
         
         System.out.println("Olá "+nome+", esse é o seu IMC: "+imc);
-    } }
+    }
+}
     
         
                 
