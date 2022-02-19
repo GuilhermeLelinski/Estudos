@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class OProjetoDeTUDO1 {
+public class calculoIMC {
 
     
     public static void main(String[] args) {
